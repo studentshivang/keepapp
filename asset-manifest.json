@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/keepapp/static/css/main.5fe2eb09.css",
-    "main.js": "/keepapp/static/js/main.bf384ba0.js",
-    "static/media/Keeps.png": "/keepapp/static/media/Keeps.7a8dca8da064f8259cf0.png",
+    "main.js": "/keepapp/static/js/main.8d5391ae.js",
+    "static/media/logot.png": "/keepapp/static/media/logot.0c2f11819e73986ae067.png",
     "index.html": "/keepapp/index.html",
     "main.5fe2eb09.css.map": "/keepapp/static/css/main.5fe2eb09.css.map",
-    "main.bf384ba0.js.map": "/keepapp/static/js/main.bf384ba0.js.map"
+    "main.8d5391ae.js.map": "/keepapp/static/js/main.8d5391ae.js.map"
   },
   "entrypoints": [
     "static/css/main.5fe2eb09.css",
-    "static/js/main.bf384ba0.js"
+    "static/js/main.8d5391ae.js"
   ]
 }
