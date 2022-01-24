@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/keepapp/static/css/main.5fe2eb09.css",
+    "main.js": "/keepapp/static/js/main.bf384ba0.js",
+    "static/media/Keeps.png": "/keepapp/static/media/Keeps.7a8dca8da064f8259cf0.png",
+    "index.html": "/keepapp/index.html",
+    "main.5fe2eb09.css.map": "/keepapp/static/css/main.5fe2eb09.css.map",
+    "main.bf384ba0.js.map": "/keepapp/static/js/main.bf384ba0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe2eb09.css",
+    "static/js/main.bf384ba0.js"
+  ]
+}
